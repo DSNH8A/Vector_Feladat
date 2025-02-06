@@ -1,0 +1,30 @@
+
+1. SQL stúdióban létre kell hozni egy adatbázist (nálam Vector a neve) 
+   jobb klikk Databases mappára ott a new Databse-t kell kiválasztani 
+   csak nevet elég megadni aztán Ok-ra klikk
+
+2. Rá kell húzni az üres felületre előszőr a Table nevű SQL fájlt.
+
+3. Ki kell választani az újonnam létrehozott adatbázist (Object explorer feletti legördülő menü)
+
+4. Execute gombot meg kell nyomni (a legördülő menü mellett)
+
+5. A Table fájlt ki lehet ikszelni, be lehet húzni az Adatok fájlt és megnyomi az Execute gombot
+
+6. Ha ez mind megvan meg lehet nyitni a telepített .exe fájlt ez kérni fogja az SQL szerver nevét
+   és az adatbázis nevét ezeket jól kell megadni különben nem tud adatokat megjeleníteni
+   (a szerver nevét mikor belépünk SSMS programba ki lehet másolni a szerver kiírásnál azt kell megadni
+   a programnak)
+
+7. Négy táblázat látható fentről lefelé A Termékek, Partnerek, Tételek ügyfelenként és az összes Tétel
+
+8. A pertnerek fülből lehet kiválasztani a artnereket ezek közül mind látható a partnerek táblazatban
+    (a partnerek fül felett) Ha a pertnert kiválasztja akkor a cím az egységár és az engedmény 
+     automatikusan kitöltésre kerül. Az egységár és a cím nem változtatható, de az engedmény igen.
+
+9. A Mennyiség automatikusan 1-re van állítva de lehet változtatni akkor a Netto a Brutto és a kedvzményes 
+    ár is a mennyiségnek megfelelően változik.
+
+10. A tétel hozzáadása gombot lenyomva lehet bevinni a kiválasztott adatokat. Ennek látszodnia kell 
+    az összes tétel táblázatban. A megyjegzés helyére is kötelezó írni valaimit különben nem történik 
+    adatrögzítés.   
