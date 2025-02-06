@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.692,C:\Dev\Delphi\Feladat.pas=C:\Dev\Delphi\ToBeContimued.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.287,C:\Dev\Delphi\DBLogin.pas=</Transaction>
     <Transaction>1899.12.30 00:00:00.000.961,C:\Dev\Delphi\MyFirstProgram.pas=C:\Dev\Delphi\Feladat.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.445,C:\Dev\Delphi\Feladat\feladat.dproj=C:\Dev\Delphi\tobecontinued.dproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.800,=C:\Users\user\OneDrive\Dokumentumok\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.692,C:\Dev\Delphi\Feladat.pas=C:\Dev\Delphi\ToBeContimued.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.509,C:\Dev\Delphi\DBLogin.pas=C:\Dev\Delphi\Unit2.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.287,C:\Dev\Delphi\DBLogin.pas=</Transaction>
     <Transaction>1899.12.30 00:00:00.000.692,C:\Dev\Delphi\Feladat.dfm=C:\Dev\Delphi\ToBeContimued.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.961,C:\Dev\Delphi\MyFirstProgram.dfm=C:\Dev\Delphi\Feladat.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.157,C:\Dev\Delphi\ToBeContimued.dfm=C:\Users\user\OneDrive\Dokumentumok\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
